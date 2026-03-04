@@ -1,0 +1,68 @@
+baseURL = 'https://burcinyazici.com/'
+languageCode = 'tr'
+title = 'Burçin Yazıcı'
+theme = 'PaperMod'
+defaultContentLanguage = 'tr'
+hasCJKLanguage = false
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+pygmentsUseClasses = true
+
+[pagination]
+  pagerSize = 15
+
+[params]
+  author = 'Burçin Yazıcı'
+  description = 'kişisel web günlüğüm'
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+
+  [params.homeInfoParams]
+    Title = 'Burçin Yazıcı'
+    Content = 'Yazılım, teknoloji ve internet üzerine kişisel notlarım.'
+
+  [params.socialIcons]
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Yazılar'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'Etiketler'
+    url = '/tags/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'categories'
+    name = 'Kategoriler'
+    url = '/categories/'
+    weight = 30
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[permalinks]
+  posts = '/:slug/'
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

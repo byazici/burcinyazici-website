@@ -1,0 +1,11 @@
++++
+title = "Samsung Galaxy S II Tanıtım Videosu"
+date = "2011-08-24T10:40:08+03:00"
+slug = "samsung-galaxy-s-ii-tanitim-videosu"
+categories = ["Teknoloji"]
+tags = ["akıllı telefon", "andorid", "cep telefonu", "haber", "samsung", "samsung galaxy s II"]
++++
+<p style="text-align: center;"><img class="size-full wp-image-1586 aligncenter" style="margin-top: 10px; margin-bottom: 10px;" title="samsung-logo" src="/images/2011/08/samsung-logo.jpg" alt="" width="389" height="130" /></p>
+Merakla beklenen <a title="Super Amoled Ekran Nedir?" href="https://burcinyazici.com/etiket/akilli-telefon">akıllı telefon</a>lardan <strong>Samsung Galaxy S II'</strong>in Amerika'da piyasaya çıkışına az kaldı. <strong>Kore</strong> firması olan <a title="Super Amoled Ekran Nedir?" href="https://burcinyazici.com/etiket/samsung"><strong>Samsung</strong></a>, "<strong>Samsung Galaxy S II</strong>" ile ilgili eğlenceli bir <strong>tanıtım videosu</strong> hazırlamış. Amerika için üretilen modellerde ufak tefek <strong>makyaj</strong> farklılıkları olacağı görülüyor. Videoda<strong> 9 eylüle</strong> vurgu yapılıyor ve bilgi vermekten çok <strong>eğlenceli</strong> bir tanıtım sunuluyor. Video gerçekten komik. Ben bizim televizyonlarda böyle yerel bir reklam yayınlanabileceğini sanmıyorum(!) :)
+
+<object width="640" height="390" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://www.youtube.com/v/CUinl4Wclr4&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><embed width="640" height="390" type="application/x-shockwave-flash" src="http://www.youtube.com/v/CUinl4Wclr4&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" allowFullScreen="true" allowScriptAccess="always" allowfullscreen="true" allowscriptaccess="always" /></object>

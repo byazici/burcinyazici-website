@@ -1,0 +1,20 @@
++++
+title = "Google Page Layout(Sayfa Düzeni) Algoritması Nedir? Kimleri Etkiler? Nasıl Önlem Almalı?"
+date = "2012-01-24T12:56:48+03:00"
+slug = "google-page-layoutsayfa-duzeni-algoritmasi-nedir-kimleri-etkiler-nasil-onlem-almali"
+categories = ["Internet"]
+tags = ["algoritma", "google", "haber", "seo"]
++++
+<img class="alignleft size-full wp-image-1722" style="margin: 5px;" title="google" src="/images/2011/10/google-logo.png" alt="" width="116" height="41" />Google en iyi arama sonuçları için çalışmaya devam ediyor. En son uygulamaya aldığı <strong>sayfa düzeni algoritması</strong> <strong>(page layout algorithm</strong>) hemen hemen bütün site sahiplerini hareketlendirdi. Resmi blogda <a title="Google Page Layout " href="http://googlewebmastercentral.blogspot.com/2012/01/page-layout-algorithm-improvement.html" target="_blank">duyurduğu habere göre</a> artık arama sonuçlarını sunarken sayfa düzeni uygun olanlar daha yukarıda çıkmaya başlamış. Evrensel olarak aramaların<strong> %1ini etkleyeceği</strong> ifade ediliyor.
+<h3>Sayfa Düzeni Algoritması Nedir?</h3>
+Son zamanlarda artan müşteri şikayetlerde kullanıcılar tıkladıkları sonuçlardan açılan sayfalarda içerikleri bulmakta zorlandıklarını ifade etmişler. Bu konu aslında "<em>SEO çalışmalarıyla kullanıcının ilk baktığı yere reklamı monte et</em>" bilgisinin yaygınlaşmasıyla gündeme gelmiş bir konudur. Bunları değerlendiren Google mühendisleri de çalışmışlar ve artık bir alan adındaki<strong> tüm sayfalara</strong> belli bir puan verip genel bir katsayıya ulaşarak temel algoritmayı etki edecek geliştirme yapmışlar (Doğrusu nasıl bir geliştirme yaptıklarını da merak etmiyor değilim).
+
+"<strong>Above the fold</strong>" şeklinde geçen bir terim var. Bu terim aslında <strong>önemli içeriğin</strong> yerleşimin üst kısmına yer alması mantığına dayanan grafik tasarım fikri olarak ifade ediliyor. Kısaca Google artık bu kavrama da önem veriyor.
+<h3>Site Trafiğiniz Azaldı mı?</h3>
+Eğer sitenizin trafiğinde geçen hafta (<strong>yakşalık 19 ocak 2012</strong>) ciddi bir azalama var ise sebebi bu uygulama olabilir. Çözüm için <strong>tasarımda düzenlemeler</strong> yapmanız gerekecek. Sayfa açıldığında kaydırma yapmadan görülebilen içeriği mümkün olduğu kadar artımak gerekiyor. Görsel öğelerin '<em>alt</em>' özelliğine mutlaka ilgili bilgiler eklemek de daha önemli hale geliyor. Mümkün olan yerlerde imaj yerine metin kullanmak da bana mantıklı geliyor.
+<h3>Sayfa Düzenim Uygun mu Nasıl Kontrol Edebilirim?</h3>
+Bu algoritmayı devreye alan <strong>Google</strong>, sitenizi kontrol etmek için de bir araç sunuyor. Sitenizi kontrol etmek için browsersize.googlelabs.com adresindenki aracı kullanabilirsiniz. "Above the fold" kavramı için önemli olan içeriği düzgün sunup sunmadığınızı anlayabilirsiniz. Küçük bir hatırlatma; sitesinizi kontrol ederken sağdaki ve soldaki boşlukları yok ederecek bakmanızı öneriyorum. Tarayıcınızın köşesinden tutup daraltın ve ondan sonra incelemenizi yapın daha düzgün göreceksiniz.
+<h3>Sayfa Düzenim Arama Sonuçlarına Ne Zaman Yansır?</h3>
+Yapacağınız görsel düzenleme maalesef<strong> hemen sonuçlara yansımıyor.</strong> Arama robotları tekrar tarama yapana kadar beklemek zorundasınız. Eğer sık taranan bir site iseniz, rank değeriniz yüksekse ve bunun gibi google'da saklı parametrelere bağlı olarak erken veya geç güncellenebilir. Google, normal bir sitenin yaklaşık<strong> birkaç haftada</strong> güncelleneceği bilgisini veriyor.
+<h3>Google Adsense Reklam Kullanıma Teşvik Ediyor!</h3>
+Evet! Bu yapılan ile reklam kullanım teşviği çelişiyor gibi görünüyor. Fakat Adsense reklam yerleşimi konusunda içeriği <strong>engellememek</strong> üzere sürekli tavsiyelerde bulunuyor. Geniş bilgi için Adsense Reklam Politikaları'nı okuyabilirsiniz. Artık reklam yerleşimleri konusunda daha hassas davranmak gerekiyor.

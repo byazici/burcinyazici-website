@@ -1,0 +1,37 @@
++++
+title = "Tablet PC Nedir? Alırken Nelere Dikkat Etmeli?"
+date = "2017-02-01T09:30:54+03:00"
+slug = "tablet-pc-nedir-ipad-samsung-alirken-nelere-dikkat-etmeli-ozellikler-android-fiyat-tablet-pc-secimi"
+categories = ["Teknoloji"]
+tags = ["alışveriş", "android", "ipad", "ipucu", "mobil", "samsung", "tablet alırken", "tablet bilgisayar", "tablet pc", "tablet seçimi", "windows"]
++++
+<h2>Tablet PC Nedir?</h2>
+Masaüstü bilgisayarların yaygınlaşmasıyla başlayan serüven taşınabilirlik ihtiyacı nedeniyle "<strong>dizüstü bilgisayar</strong>" ile devam etti. Derken boyutları küçültme ihtiyacı ortaya çıktı. Hemen ardından "<strong>NetBook</strong>" piyasaya çıktı. Artık daha ufak bir ekran ve daha küçük boyutlarda bir cihazımız oldu. Fakat ihtiyaçlar bitmedi... "daha ince, daha hafif ve daha şık" birşeyler gerekiyordu. Sonunda o da icat edildi: "<strong>Tablet PC</strong>" ler... Artık günümüzün yeni cihazları bu ürünler. Önümüzdeki günlerde ve hatta aylarda daha da yaygınlaşıp kendi atalarının yerini alacak gibi görünüyor. Eğer bunlardan bir tane <strong>edinmek </strong>istiyorsanız almadan önce bazı detayları bilmenizde fayda var...
+<h2>Tabletlerde Hangi İşletim Sistemi Vardır?</h2>
+Eskiden "PC" denince ortalama bir kullanıcının aklına "<strong>windows</strong>" gelirdi... Sonradan yaygınlaşan <strong>"linux/unix</strong>" de günümüzde oldukça popüler hale geldi. Fakat bu işletim sistemler "<strong>yeni nesil</strong>" cihazlarda direk <strong>kullanılamazdı </strong>zira yeni cihazların çoğu dokunmatik ekran olduğundan buna göre özelleşmiş fonksiyonlara gerek duyuldu. O sebeple <a href="/etiket/windows" target="_blank" rel="noopener">windows </a>"mobil cihazlar" için çeşitli versiyonlarını çıkardı. Bu gelişmeleri yakından takip eden Google "<a href="http://www.android.com/" target="_blank" rel="noopener"><strong>android</strong></a>" i, Apple ise "<strong><a href="/etiket/ios">iOS</a></strong>" işletim sistemleriyle günümüze kadar geldiler. Özetle, günümüzdeki tablet PC'lerde en çok kullanılan işletim sistemleri bunlardır.
+<h2><img class="aligncenter size-full wp-image-1219" title="table-pc" src="/images/2011/03/table-pc.jpg" alt="" width="562" height="175" /></h2>
+Açık kaynak kodlu olmasıyla "<strong>Android</strong>" kısa sürede çok ilerledi ve büyük bir katılım sayesinde çok yayıldı. Windows'ta yapılan geliştirmeler Android'in gerisinde kaldı. Öte yandan <a href="http://www.apple.com/ios/" target="_blank" rel="noopener">iOS</a>' da geliştirme yapmak için tamamen <strong><a href="/etiket/apple" target="_blank" rel="noopener">apple </a></strong>teknolojilerini kullanmak gerekiyor. Fakat <strong>iOS</strong> da çok yaygın ve bunun üzerinde geliştirilen uygulamaların çok popüler olduğunu söylemekte fayda var.
+<h2>Tablet PC Almak İçin Birkaç Sebep</h2>
+<ul>
+ 	<li>Öncelikle <strong>çantamızda </strong>rahat taşıyabileceğimiz bir bilgisayarınız olacak.</li>
+ 	<li>Bir toplantıda, derste veya bu tür bir etkinlikte kolaylıkla not almak için,<strong> ses kaydı</strong> yapmak için ve <strong>görsel kayıt</strong> yapmak için kullanabilirsiniz.</li>
+ 	<li><strong>İnternet bağlantısı</strong> sayesinde her an çevrimiçi olmanın avantajları da elinizin altında olacak.</li>
+ 	<li>Bu cihazlara özel işletim sistemleri üzerinde <strong>onlarca </strong>hatta <strong>yüzlerce </strong>uygulamayı indirip işinizle ilgili olarak kullanmanız da mümkün.</li>
+ 	<li>Daha fazla neden arıyorsanız alın size 5 neden daha :)</li>
+</ul>
+<a href="https://burcinyazici.com/wp-content/uploads/2011/03/samsung-apple-tablet.jpg"><img class="aligncenter wp-image-3036" src="/images/2011/03/samsung-apple-tablet.jpg" alt="samsung-apple-tablet" width="500" height="330" /></a>
+<h2>Tablet PC Alırken Nelere Dikkat Etmeli?</h2>
+<ul>
+ 	<li><a href="/etiket/ios"><strong>iOS </strong></a>mu, <strong><a href="/etiket/android" target="_blank" rel="noopener">Android </a></strong>mi?, <strong>windows </strong>mu tercih etmeli? Öncelikle <strong>iOS </strong>sistemini sadece <a href="/etiket/apple">Apple</a>'ın ürünlerinde olduğunu bilmemiz gerekiyor. Yani elimizde<strong> iPad</strong>,<strong><a title="Yeni Apple iPad 2 (Ne Zaman Çıkacak ve Özellikleri)" href="https://burcinyazici.com/yeni-apple-ipad-2-ne-zaman-cikacak-ve-ozellikleri-570.html" target="_blank" rel="noopener"> ipad 2</a></strong> gibi çok kısıtlı bir ürün grubu oluyor. Sayısı az olsa da bu ürünler en <strong>çok tercih</strong> edilenlerden. Windows'u direk geçiyorum ve geliyorum <strong>Android</strong>'e... Android ile çalışan tablet PC seçenekleri çok fazla. <strong>Kolay geliştirme</strong> yapılmasından ve kaynağın çok fazla olmasıyla artık Çin'de Çinlilerin ucuza ürettiği adını pek duymadığımız modeller bile oldukça başarılı. Eğer teknolojiye  <strong>meraklıysanız</strong> ve araştırmayı da seviyorsanız kesinlikle <strong>Android</strong>'i tercih edin derim. Fakat yok ben internetime <strong>bağlanayım </strong>filmimi <strong>izleyeyim </strong>cihazım da <strong>şık</strong> olsun derseniz sizi <strong>iPad</strong>'e yöneltebilirim.</li>
+ 	<li>Düşündüğünün ürünü mutlaka t<strong>ecrübe edin! </strong>Her ne kadar araştırma yaparsanız yapın <strong>satın almadan önce </strong>cihazı mutlaka kullanın ve tecrübe edin. Verdiğiniz sipariş ile ilk defa görmek inanın çok büyük risk! Cihazın <strong>kasasını </strong>kontrol edin, ekranını elinizle kontrol edip <strong>malzeme </strong>kalitesini anlamaya çalışın. Elbette bir <a href="/etiket/ipad">iPad </a>alacaksanız buna gerek yok ama genel olarak çok iyi bilmediniz markalar için bunu yapmak iyi fikir.</li>
+ 	<li>Çok efektif kullanacaksanız <strong>RAM</strong>'inin yüksek olmasına dikkat edin.</li>
+ 	<li><strong>Medya </strong>özellikleri <strong>öncelikli </strong>ihtiyacınız ise "<strong>ekranı büyük</strong>" olan modellere yönelebilirsiniz.</li>
+ 	<li>Seçeceğiniz ürünün <strong>hafif </strong>olmasına özen gösterin. Ağır ürünler teknolojik olarak eskidir ve taşımada zorluk çıkarabilir.</li>
+ 	<li>Güvenilir bir <strong>satıcıdan </strong>almayı tercih edin. Aksi halde bir sorun çıktığında üzülebilirsiniz.</li>
+ 	<li><strong>Şarj sürelerini </strong>karşılaştırın. Hem dolum süresine hem de kullanım sürelerine bakın. Sizi yarı yolda bırakacak bir model olmasın.</li>
+</ul>
+[caption id="attachment_3368" align="aligncenter" width="400"]<img class="wp-image-3368" src="/images/2011/03/windows_tablet_pc-300x225.jpg" width="400" height="300" /> windows tablet pc[/caption]
+<h2>Almadan Önce Beklemek Gerekir mi?</h2>
+<strong>Bence hayır!</strong> Bir çok konuda hemen satın almaya karşıyım fakat eğer ihtiyaç olarak karar vermişseniz iyi kötü birşeyler alıp tecrübe edin. Ayrıca gelişmeleri takip edin. Zaten seneler birbirini kovaladıkça daha yeni modeller ve teknolojiler çıkacaktır. Beklemeye başlarsanız daha çok <strong>beklersiniz. </strong>Fakat ihtiyacınızdan çok daha fazlasını içeren ve bütçenizi aşan modeller için iki defa düşünün derim.
+<h2>Son Olarak</h2>
+Tablet PC'ler çok fazla <strong>yaygınlaşacak</strong>. Öncelikle buna hazırlı olmak gerekiyor. Bununla birlikte teknoloji meraklıları ürünlerine karar verirken daha özenle araştırmalıdır zira cihazların fiyatları yüksek ve çok farklılıklar var.<strong> iOS </strong>tabanlı<strong> iPad </strong>ürünlerini tercih edebileceğiniz gibi <strong>android tabanlı </strong>ile çalışan onlarca model içinden de tercih yapabilirsiniz. <strong>Seçim sizin...</strong>

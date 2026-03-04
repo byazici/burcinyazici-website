@@ -1,0 +1,10 @@
++++
+title = "Samsung Galaxy Nexus Satışa Çıktı"
+date = "2011-11-17T23:28:38+03:00"
+slug = "samsung-galaxy-nexus-satisa-cikti"
+categories = ["Teknoloji"]
+tags = ["akıllı telefon", "android telefon", "çıkış tarihi", "galaxy nexus", "google", "nexus", "samsung"]
++++
+<a title="Samsung Galaxy Nexus’un Teknik Özellikleri" href="https://burcinyazici.com/samsung-galaxy-nexusun-teknik-ozellikleri-2129.html"><strong>Samsung Galaxy Nexus</strong></a> bugün, 1<strong>7 Kasım 2011</strong>'de İngiltere'de satışa sunuldu. İlk olarak sim kilitli sunulacak olan <strong>Galaxy Nexus,</strong> <strong>2 Aralık</strong>'tan itibaren kilitsiz satılmaya başlanacak. Android 4 (<a title="ICS" href="https://burcinyazici.com/android-4-ice-cream-sandwich-ile-gelen-harika-ozellikler-1790.html">Ice Cream Sandwich</a>) ile sunulan<strong> Galaxy Nexus</strong> hem donanımı hem de yazılımlarıyla göz dolduruyor.
+
+<a title="Samsung Galaxy Nexus’un Teknik Özellikleri" href="https://burcinyazici.com/samsung-galaxy-nexusun-teknik-ozellikleri-2129.html"><strong><img class="size-full wp-image-2133 aligncenter" title="Samsung Galaxy Nexus" src="/images/2011/11/Galaxy-Nexus.jpg" alt="Samsung Galaxy Nexus" width="240" height="240" /></strong></a><strong><a title="Samsung" href="https://burcinyazici.com/etiket/samsung">Samsung</a></strong>'un diğer yeni ürünü <strong><a title="Samsung Galaxy Note" href="https://burcinyazici.com/samsung-galaxy-note-ozellikleri-ve-cikis-tarihi-1890.html">Galaxy Note</a></strong> ve yeni <strong>Galaxy Nexus</strong> acaba <strong>Türkiye</strong>'de yasal bir satış ile dağıtılacak mı? Evet bu soruyu herkes soruyor. Son zamanlarda maalesef ülkemize ithal edilen telefonların vergisi <strong>arttığından</strong> bu telefonları getirip satmak da problem oluyor. Bu durumda tüketiciler yurt dışından getirme yoluna gidiyorlar acaba bu işten kim kar ediyor kim zarar ediyor...

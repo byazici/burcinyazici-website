@@ -1,0 +1,26 @@
++++
+title = "Çocuklarda Yazılım Eğitimi ve Önemi"
+date = "2017-01-08T13:39:04+03:00"
+slug = "cocuklarda-yazilim-egitimi-ve-onemi"
+categories = ["Yazılım"]
+tags = ["bulut bilişim", "büyük veri", "çocuklar için programlama", "çocuklar için yazılım", "code", "eğitim", "geliştirme", "kod yazma", "nesnelerin interneti", "öğrenci", "yazılım", "yazılım eğitimi"]
++++
+Hiç şüphe yok ki; <a href="/etiket/teknoloji"><strong>teknoloji</strong></a> her geçen gün hayatımıza biraz daha giriyor. Artık bazı teknolojik cihazlar olmadan yaşayamıyoruz! Cep telefonunuzu evde bırakıp geçireceğiniz bir günü düşünün mesela. Bu cihazların hepsi yazılım ile programlanıyor ve bize sunuluyor. Bu hızla artan ihtiyacı karşılamak için her geçen gün yazılım sektörü de hızla genişliyor. <strong>Çocuklarda yazılım eğitimi ve önemi</strong> de burada ortaya çıkıyor.
+
+Günümüzde yazılım öğrenme yaşı oldukça erken yaşlara kadar indi. Artık <strong>lise</strong> ve hatta <strong>ilköğretimde</strong> bile yazılımın temellerini öğreten dersler var. Peki <strong>çocuklarda yazılım eğitimi</strong> neden bu kadar önemli?
+
+<img class="aligncenter wp-image-3240 size-full" src="/images/2017/01/student.jpg" width="500" height="331" />
+<h3>Gelişen Teknoloji Yazılım İhtiyacını Artırıyor</h3>
+Son zamanlarda oldukça gündemde olan "4. Endüstriyel Devrimi" ile birlikte hayatımız <a href="/etiket/teknoloji">teknoloji</a>yle iç içe yaşanır hale geldi. Özellikle "<a href="https://burcinyazici.com/big-data-buyuk-veri-nedir-ne-ise-yarar-2651.html/"><strong>büyük veri</strong></a>", "<strong>bulut bilişim</strong>" ve "<strong>nesnelerin interneti</strong>" kavramlarının da yaygınlaşmasıyla hayatımızın her köşesinde <strong>programlanmış cihazlar</strong> görmekteyiz. Durum böyle olunca <strong>yazılım ihtiyacı</strong> her geçen gün oransal olarak <strong>artıyor</strong>. Eskiden daktilo, word, excel kullanmak nasıl ki işe alımda önemli rol oynuyordu; gelecekte ise basit veya orta düzey yazılım bilgisi (mühendis olunmasa da) önemli bir kriter olacak. Bir çok meslekte az veya çok yazılım bilme ihtiyacı olacak.
+<h3>Çocukların Algısı</h3>
+Gelelim çocuklara... Bazen çocuklarımız gerçekten şanlı mı emin olamıyorum. Fakat iyi tarafından bakmak gerekirse kendi çocukluğumda bu kadar imkan yakalasaydım ne kadar güzel olurdu diye düşünüyorum. Bu bakımdan çocuklarımız <strong>şanslı</strong> bence. Bunun yanında bazı öğretileri <strong>küçük yaşta</strong> almanın önemini de biliyoruz. Örneğin yabancı dil eğitimi anaokul yaşlarında başlıyor artık. Küçük yaşta daha kalıcı ve daha kolay öğreniliyor. İşte yazılım öğretimini de <strong>ilkokul</strong> <strong>çağlarında</strong> çocuklarımıza sunmamız mümkün. Onlar için oyun gibi gelecek bu öğretiler hayatına olumlu yönde bir katkı sağlayabilir.
+<h3>Meslekler Dönüşüyor</h3>
+Mesleklerin kaybolmasının sorun olup olmadığı benim de karar veremediğim bir konu. Gelişen teknoloji bir çok mesleği <strong>yok</strong> <strong>ediyor </strong>veya <strong>dönüştürüyor</strong>. Süpermarketlerin açılmasıyla <strong>bakkallık</strong> mesleğinin zora düşmesi örneğin... Burada yıllardır bakkalını işleten kişiyi mi suçlamalıyız? Yoksa kapitalizme mi suç bulmalıyız? Bence bunları düşünmektense okuyup fikir geliştirmeliyiz. Maalesef bazı meslekler daha büyük tehlike altında. Fakat bunu fırsata çevirmek için çalışmak da bizim elimizde. Konuya biraz daha <strong>basit</strong> yaklaşırsak şöyle bir sonuç çıkarabiliriz; <strong>değişen</strong> hayata uyum sağlayamazsak bizler de var olamayız! İşte bu yüzden <a href="/etiket/yazilim"><strong>yazılım</strong></a> temellerini öğrenmek veya <strong>çocuklarımızı</strong> bu yönde teşvik etmek gelecek için çok önemli. Evet meslekler dönüşüyor ama bizler de teknolojiyi <strong>etkin</strong> kullanıp fark yaratabiliriz. Teknolojinin <strong>soğuk</strong>  bir yüzü olmasına karşın azimle çalışanlara da şans tanıdığı ortadadır.
+<h3>Bize Düşen Nedir?</h3>
+Bize düşen daha <strong>ilkokul</strong> çağlarında çocuklarımızı en azından yazılım eğitimleriyle tanıştırmak olabilir. Elbette tüm çocukların aynı oranda ilgi göstermesini bekleyemeyiz. Fakat ilgisini <strong>çekerse</strong> hem bir <strong>hobi</strong> edinir hem de <strong>geleceğe</strong> yönelik güzel bir adım atmış olur.
+<h3>Çocuklarda Yazılım Eğitimi Nasıl Başlamalı?</h3>
+Şimdiye kadar yazılım eğitiminin <strong>önemi</strong> ve <strong>gerekliliğinden</strong> bahsettim. Peki küçük yaştaki çocukları bilgisayarın başına oturtup <strong>kod mu yazdıracağız?</strong> Elbette öyle değil. Günümüzde küçük yaştaki çocuklara -yaklaşık 6-7 yaşından itibaren- odaklanmış ve oyun gibi sunulan fakat ardında yazılım temellerini öğreten çeşitli <strong>dersler</strong>, <strong>online web siteleri</strong> ve <strong>girişimler</strong> mevcut. Bunların neler olduğunu <a href="https://burcinyazici.com/cocuklar-icin-kodlama-ogreten-online-servisler-3232.html/"><strong>Çocuklar için Kodlama Öğreten Online Servisler</strong> </a>başlıklı yazımda okuyabilirsiniz.
+
+Bugün<strong> çocuklarda kodlama eğitimi</strong> konusuna dikkat çekmeye çalıştım. Güzel günler dilerim.
+
+ 

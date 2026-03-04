@@ -1,0 +1,22 @@
++++
+title = "ICO Nasıl Çalışır?"
+date = "2017-06-25T00:15:51+03:00"
+slug = "ico-nasil-calisir"
+categories = ["Kripto Para", "Yazılım"]
+tags = ["bitcoin", "blockchain", "coin offering", "dao hack nedir", "Ethereum", "ico", "kripto-para", "kriptoloji"]
++++
+Önceki yazımda <a href="https://burcinyazici.com/ico-nedir-3534.html/">ICO (initial coin offering)'nun tanımı </a>hakkında bilgiler vermiştim. Şimdi de bu fonlama yönteminin nasıl çalıştığı hakkında bilgi öğrenelim. <strong>ICO nasıl çalışır?</strong>
+
+[caption id="attachment_3569" align="aligncenter" width="614"]<img class="size-full wp-image-3569" src="/images/2017/06/ico-nasil-calisir-2.jpg" alt="ico-nasil-calisir" width="614" height="346" /> ico-nasil-calisir?[/caption]
+
+<b>Yatırım almak isteyen girişimci </b>öncelike projesinin duyurusunu yapar. Bu duyuruyu web sitesinde veya popüler forumlarda (Bitcointalk) yaparlar. ICO fonlamasının özellikle <strong>blockchain</strong> veya <strong>kripto para</strong> projelerine dayandığından daha önce de bahsetmiştim. Fonlama için belli bir <strong>süre</strong> ve belli bir hedef yatırım <strong>tutarı</strong> belirlenir.  Yatırım yapmak isteyenler web sitesine girip <strong>USD, EUR, BTC, ETH</strong> gibi bir para birimleriyle "<strong>token</strong>" satın alırlar. Fonlama bitip proje hedefine ulaştığında yatırımcı anlaşmasına göre ya <strong>token</strong> elde eder veya örneğin <a href="/etiket/bitcoin"><strong>bitcoin</strong></a> gibi bir kirptopara cinsinden ödeme yapılır. Eğer proje çok ilgi gören ve başarılı bir proje ise çok <strong>karlı bir yatırım</strong> olarak geri dönebilir.
+
+Proje tamamlanıp sunulduğunda <a href="/etiket/kripto-para">kriptopara</a> alım/satım marketlerinde yerini alır. Buralarda <strong>arz ve talebe</strong> göre fiyatı olur ve alınıp satılmaya başlar. Diğer projeler sağlanan <strong>API'ler</strong> sayesinde kendi projelerine entegre ederek yeni ICO projesinin sağladığı imkanları kullanmaya başlarlar.
+<h2>ICO Yatırımının Avantajları Nelerdir?</h2>
+ICO'ların önemli avantajlarından birisi süreçlerinin <strong>şeffaf</strong> olmasıdır. Yatırımcılar genellikle projenin başlangıç sahfasında davet edilirler. Bu sebeple de projeyi yatırımcılara çok açık ve net anlatabilmeleri gerekir. Bu sebeple ICO projelerinde genellikle tüm detayları açıklayan bir <strong>whitepaper</strong> bulabilirsiniz.
+
+Ayrıca büyük yatırımcıya götürülen projelerde yatırımcının bir sürü maddesine imza atmak gibi süreçler vardır. Fakat ICO sayesinde <strong>küçük hacimli</strong> ama <strong>çok sayıda</strong> yatırımcıdan yatırım alırsınız ve kuralları siz koyarsınız. Eğer gerçekten güzel bir proje çıkarmışsanız ona yatırım alma ihtimaliniz gerçekten de yüksektir. Bence şu ana kadarki en başarılı ICO projesi <strong>ETHEREUM</strong>'dur. Ethereum, piyasada bitcoin'den başka yaygın kullanılan bir <a href="/etiket/blockchain">blockchain</a> uygulaması yokken "<strong>smart contract</strong> (akıllı kontrat)" kavramıyla bitcoin'in üzerine çok güzel özellikler ekleyerek ortaya çıktı ve çok kısa bir sürede fonlamasını tamamlayıp hata geçti. Şu an da bu piyasadaki <strong>en büyük</strong> oyunculardan.
+<h2>ICO Yatırımının Riskleri Nelerdir?</h2>
+İçlerinde oldukça başarılı projeler olmakla birlikte; bir an önce zengin olmayı hedefleyip yola koyulan projeler de mevcut. Elbette küçük düşünenlerin sonu hüsran olabiliyor. Bu yatırımcıyı da zarara uğratabiliyor. Şu ana kadar bilinen en önemli başarısızlık "<strong>DAO Hack</strong>" (<a href="http://www.coindesk.com/understanding-dao-hack-journalists/">Dao Hack Nedir?)</a> diye adlandırılan <strong>DAO</strong> girişimidir. Bu girişim 100 milyon $ yatırımı aldıktan sonra yapılarında bir hata olduğunu farkettiler ve bunu anons ettiler. Bu hatayı çözene kadar korsanlar <a href="https://etherchain.org/account/0x304a554a310c7e546dfe434669c62820b7d83490">tam 3.6 milyon ETH</a> (<strong>ether</strong>) değerindeki yatırımı çaldılar. Bu yüzden yatırım yapmak istediğiniz projeyi iyi araştırmalısınız.
+
+"<strong>ICO nasıl çalışır?</strong>" konusunda bilgi vermeye çalıştım. Eğer ICO'nun tanımı hakkında bilgi almak isterseniz "<strong><a href="https://burcinyazici.com/ico-nedir-3534.html/">ICO Nedir?</a></strong>" yazımı okumanızı tavsiye ederim. Bitcoin için "<strong><a href="https://burcinyazici.com/bitcoin-nedir-3473.html/">Bitcoin Nedir?</a></strong>" yazımı tavsiye ederim.
